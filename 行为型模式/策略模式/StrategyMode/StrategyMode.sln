@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrategyMode", "StrategyMode\StrategyMode.vcproj", "{319A1BA2-03E1-4463-84C9-520E78F45FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319A1BA2-03E1-4463-84C9-520E78F45FF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{319A1BA2-03E1-4463-84C9-520E78F45FF1}.Debug|Win32.Build.0 = Debug|Win32
+		{319A1BA2-03E1-4463-84C9-520E78F45FF1}.Release|Win32.ActiveCfg = Release|Win32
+		{319A1BA2-03E1-4463-84C9-520E78F45FF1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
